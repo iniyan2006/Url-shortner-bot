@@ -22,7 +22,7 @@
 
 - /alias and than a custom alias
 
-### Test  the bot : [@url_tinybot](“https://www.telegram.me/url_tinybot”)
+### Test  the bot : [@url_tinybot](https://www.telegram.me/url_tinybot)
 
 create a config.ini file and configure your credintials
 
